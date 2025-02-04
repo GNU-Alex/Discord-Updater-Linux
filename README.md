@@ -1,4 +1,4 @@
-# Discord Update Script
+# Discord Updater Script
 
 This Bash script allows you to download, extract, and install the latest version of the Discord application for Linux. It also replaces any existing version of Discord in the `/usr/share/discord` directory.
 
